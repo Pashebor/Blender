@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="C:\android\ViscosityApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0-rc1\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\android\ViscosityApp\app\src\main\res" >
+            <file
+                name="boil"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\boil.jpeg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="gazprom"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\gazprom.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\logo.jpeg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo1"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\logo1.jpeg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="pashebor"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-hdpi\pashebor.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="boil"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-ldpi\boil.jpeg"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="gazprom"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-ldpi\gazprom.jpg"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-ldpi\logo.jpeg"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="pashebor"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-ldpi\pashebor.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="boil"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-mdpi\boil.jpeg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="gazprom"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-mdpi\gazprom.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-mdpi\logo.jpeg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="pashebor"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-mdpi\pashebor.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="boil"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xhdpi\boil.jpeg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="gazprom"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xhdpi\gazprom.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xhdpi\logo.jpeg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="pashebor"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xhdpi\pashebor.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="boil"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xxhdpi\boil.jpeg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="gazprom"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xxhdpi\gazprom.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xxhdpi\logo.jpeg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="pashebor"
+                path="C:\android\ViscosityApp\app\src\main\res\drawable-xxhdpi\pashebor.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="first"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\first.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fourth"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\fourth.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="second"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="start"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\start.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="third"
+                path="C:\android\ViscosityApp\app\src\main\res\layout\third.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\android\ViscosityApp\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\android\ViscosityApp\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\android\ViscosityApp\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="buttonFirst" >Вычисление вязкости при смешении двух компонентов
+                </string>
+                <string name="Previus" >&lt;
+                </string>
+                <string name="Text9" >Тонн комп. №4
+                </string>
+                <string name="Text8" >Вязкость комп. №4
+                </string>
+                <string name="buttonThird" >Вычисление вязкости при смешении четырех компонентов
+                </string>
+                <string name="Text7" >Тонн комп. №3
+                </string>
+                <string name="Text6" >Вязкость комп. №3
+                </string>
+                <string name="Text5" >Вязкость смеси :
+                </string>
+                <string name="Text4" >Тонн комп. №2
+                </string>
+                <string name="Text3" >Вязкость комп. №2
+                </string>
+                <string name="Text2" >Тонн комп. №1
+                </string>
+                <string name="label3" >Вязкость взимаемого компонента :
+                </string>
+                <string name="Text1" >Вязкость комп. №1
+                </string>
+                <string name="Button" >НАЖМИ !!!
+                </string>
+                <string name="label2" >Тонн продукта :
+                </string>
+                <string name="label5" >Требуемая вязкость :
+                </string>
+                <string name="label4" >Количечтво взимаемого компонента :
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="label1" >Вязкость продукта:
+                </string>
+
+                <color name="Mycolor" >#00BFFF
+                </color>
+
+                <string name="buttonSecond" >Вычисление вязкости при смешении трех компонентов
+                </string>
+                <string name="buttonFourth" >Вычисление количества взимаемого продукта по установленным параметрам вязкости
+                </string>
+                <string name="app_name" >Вязкость
+                </string>
+
+                <color name="White" >#FFFAFA
+                </color>
+
+                <string name="Next" >>
+                </string>
+            </file>
+            <file
+                path="C:\android\ViscosityApp\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\android\ViscosityApp\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\android\ViscosityApp\app\build\generated\res\rs\debug" />
+        <source path="C:\android\ViscosityApp\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\android\ViscosityApp\app\src\debug\res" />
+    </dataSet>
+
+</merger>

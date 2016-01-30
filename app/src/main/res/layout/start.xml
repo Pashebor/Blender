@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/boil"
+    >
+    <LinearLayout 
+        android:id="@+id/l1"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:orientation="horizontal">
+        <Button 
+            android:id="@+id/btnFirst"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/buttonFirst">
+            
+        </Button>
+        
+    </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/l2"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:orientation="horizontal">
+        <Button 
+            android:id="@+id/btnSecond"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/buttonSecond">
+            
+        </Button>
+        </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/l3"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:orientation="horizontal">
+        <Button 
+            android:id="@+id/btnThird"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/buttonThird">
+            
+        </Button>
+        </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/l4"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:orientation="horizontal">
+        <Button 
+            android:id="@+id/btnFourth"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/buttonFourth">
+            
+        </Button>
+        </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/l5"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="20pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/imgView"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:src="@drawable/pashebor" 
+            android:layout_gravity="left"/>
+        </LinearLayout>
+    
+</LinearLayout>

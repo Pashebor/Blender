@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buttonFourth">Вычисление количества взимаемого продукта по установленным параметрам вязкости</string>
+    <string name="buttonThird">Вычисление вязкости при смешении четырех компонентов</string>
+    <string name="buttonSecond">Вычисление вязкости при смешении трех компонентов</string>
+    <string name="buttonFirst">Вычисление вязкости при смешении двух компонентов</string>
+    <string name="app_name">Блендер</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="Mycolor">#00BFFF</color>
+    <string name="Text1">Вязкость комп. №1</string>
+    <string name="Text2">Тонн комп. №1</string>
+    <string name="Text3">Вязкость комп. №2</string>
+    <string name="Text4">Тонн комп. №2</string>
+    <string name="Button">НАЖМИ !!!</string>
+    <string name="Text5">Вязкость смеси :</string>
+    <color name="White">#FFFAFA</color>
+    <string name="Next">&gt;</string>
+    <string name="Previus">&lt;</string>
+    <string name="Text6">Вязкость комп. №3</string>
+    <string name="Text7">Тонн комп. №3</string>
+    <string name="Text8">Вязкость комп. №4</string>
+    <string name="Text9">Тонн комп. №4</string>
+    <string name="label1">Вязкость продукта:</string>
+    <string name="label2">Тонн продукта :</string>
+    <string name="label3">Вязкость взимаемого компонента :</string>
+    <string name="label4">Количечтво взимаемого компонента :</string>
+    <string name="label5">Требуемая вязкость :</string>
+</resources>

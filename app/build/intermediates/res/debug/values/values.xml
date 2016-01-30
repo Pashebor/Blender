@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/android/ViscosityApp/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <color name="Mycolor">#00BFFF</color>
+    <color name="White">#FFFAFA</color>
+    <!-- From: file:/C:/android/ViscosityApp/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/android/ViscosityApp/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="Button">НАЖМИ !!!</string>
+    <string name="Next">></string>
+    <string name="Previus">&lt;</string>
+    <string name="Text1">Вязкость комп. №1</string>
+    <string name="Text2">Тонн комп. №1</string>
+    <string name="Text3">Вязкость комп. №2</string>
+    <string name="Text4">Тонн комп. №2</string>
+    <string name="Text5">Вязкость смеси :</string>
+    <string name="Text6">Вязкость комп. №3</string>
+    <string name="Text7">Тонн комп. №3</string>
+    <string name="Text8">Вязкость комп. №4</string>
+    <string name="Text9">Тонн комп. №4</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Вязкость</string>
+    <string name="buttonFirst">Вычисление вязкости при смешении двух компонентов</string>
+    <string name="buttonFourth">Вычисление количества взимаемого продукта по установленным параметрам вязкости</string>
+    <string name="buttonSecond">Вычисление вязкости при смешении трех компонентов</string>
+    <string name="buttonThird">Вычисление вязкости при смешении четырех компонентов</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label1">Вязкость продукта:</string>
+    <string name="label2">Тонн продукта :</string>
+    <string name="label3">Вязкость взимаемого компонента :</string>
+    <string name="label4">Количечтво взимаемого компонента :</string>
+    <string name="label5">Требуемая вязкость :</string>
+    <!-- From: file:/C:/android/ViscosityApp/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
